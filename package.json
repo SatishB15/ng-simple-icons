@@ -1,0 +1,29 @@
+{
+  "name": "ngx-simple-icons",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": ">=16.0.0",
+    "@angular/core": ">=16.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "simple-icons": "^13.20.0"
+  },
+  "description": "ngx-simple-icons is an Angular library that provides easy-to-use components for integrating the popular Simple Icons library into Angular applications. It allows you to effortlessly display over 1,000 SVG icons by simply passing the icon name, size, and color to the component. Compatible with Angular 16 and above, this library simplifies icon usage and enhances the user experience with easy-to-implement SVG icons.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple-icons",
+    "ng-simple-icon",
+    "ngx-simple-icon"
+  ],
+  "author": "Satish Birhade",
+  "license": "MIT"
+}
